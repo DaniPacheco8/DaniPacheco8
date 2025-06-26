@@ -1,7 +1,7 @@
 ### Hi there, I'm Daniella.
 ##
 
-- :seedling: I'm part of the ADA Program at [Factoría F5](https://factoriaf5.org/)
+- :seedling: I'm part of the FemCoders Barcelona - P7 at [Factoría F5](https://factoriaf5.org/)
 - 🧠 Currently studyng JavaScript
 - 👩‍🦰 Pronouns: she/her
 - 🐶 Ask me about my pets
