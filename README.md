@@ -2,7 +2,7 @@
 ##
 
 - :seedling: I'm part of the FemCoders Barcelona - P7 at [Factoría F5](https://factoriaf5.org/)
-- 🧠 Currently studyng JavaScript
+- 🧠 Currently studyng Java
 - 👩‍🦰 Pronouns: she/her
 - 🐶 Ask me about my pets
 - 😻 Fun fact: I was afraid of cats and now I'm a crazy cat lady
